@@ -1,5 +1,4 @@
-﻿
-var gender = "mezczyzna";
+﻿var gender = "mezczyzna";
 var age = 17;
 var name = "Ewa";
 if (gender == "kobieta" && age < 30)
