@@ -1,5 +1,5 @@
 ﻿//Licznik cyfr w liczbie
-int number = 1111666;
+int number = 1111666000;
 string cyfryWLiczbie = number.ToString();
 char[] cyfry = cyfryWLiczbie.ToArray();
 Console.WriteLine(cyfry);
