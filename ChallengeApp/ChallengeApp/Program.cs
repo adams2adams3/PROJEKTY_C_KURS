@@ -1,4 +1,4 @@
-﻿//Licznik cyfr w liczbie
+﻿//Licznik cyfr
 int number = 1111666000;
 string digitsInNumber = number.ToString();
 char[] digits = digitsInNumber.ToArray();
